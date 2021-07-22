@@ -1,0 +1,16 @@
+.DS_Store
+*.local
+coverage
+yarn-error.log
+**/node_modules
+**/*config.js
+
+# Yarn-Related
+# Zero-Installs Disabled
+.yarn/*
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*
