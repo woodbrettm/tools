@@ -1,0 +1,24 @@
+{
+  "name": "@tools/contentful-unlinked-media",
+  "version": "0.1.0",
+  "repository": "https://github.com/woodbrettm/tools.git",
+  "homepage": "https://github.com/woodbrettm/tools.git",
+  "author": "Brett Wood <brett@woodbrettm.com>",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "jest '.test.js$' -c ../../../jest.config.js "
+  },
+  "dependencies": {
+    "contentful-management": "^7.30.0"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6",
+    "jest-esm-transformer": "^1.0.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

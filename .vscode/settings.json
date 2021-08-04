@@ -1,0 +1,10 @@
+{
+  "files.eol": "\n",
+  "editor.tabSize": 2,
+  "eslint.run": "onType",
+  "search.exclude": {
+    "**/.yarn": true,
+    "**/.pnp.*": true
+  },
+  "eslint.nodePath": ".yarn/sdks"
+}
