@@ -1,0 +1,21 @@
+{
+  "name": "@woodbrettm/contentful-unlinked-media",
+  "version": "0.1.0",
+  "repository": "https://github.com/woodbrettm/tools/packages/contentful-unlinked-media.git",
+  "homepage": "https://github.com/woodbrettm/tools/packages/contentful-unlinked-media.git",
+  "author": "Brett Wood <brett@woodbrettm.com>",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">= 14.0.0"
+  },
+  "scripts": {
+    "index": "node ./index"
+  },
+  "dependencies": {
+    "contentful": "^8.5.0",
+    "node-file-dialog": "^1.0.3"
+  }
+}

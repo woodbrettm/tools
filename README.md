@@ -9,7 +9,7 @@ This monorepo contains items that are useful for various purposes. See below.
 
 | Tool                                                                   | Notes                                                                      |
 |------------------------------------------------------------------------|----------------------------------------------------------------------------|
-|                                                                        |                                                                            |
+| [`contentful-unlinked-media`](./packages/contentful-unlinked-media)    | Contentful CMS: finds media/assets which are not linked to any entries     |
 
 ## License
 
